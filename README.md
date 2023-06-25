@@ -3,10 +3,10 @@ This project showcases a responsive and visually appealing signup form implement
 
 ## Features
 - Clean and intuitive user interface.
-Responsive design, adapting to different screen sizes and devices.
-Input validation for ensuring correct user inputs.
-Submit functionality with basic form handling.
-CSS styling to enhance the visual appearance of the form.
+- Responsive design, adapting to different screen sizes and devices.
+- Input validation for ensuring correct user inputs.
+- Submit functionality with basic form handling.
+- CSS styling to enhance the visual appearance of the form.
 Technologies Used
 ## HTML: Used to structure the form elements and layout.
 ## CSS: Employed for styling the form components and adding visual enhancements.
