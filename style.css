@@ -1,0 +1,102 @@
+*{
+    font-family: 'Segoe UI';
+    background-color: rgb(255, 255, 255);
+    margin: 0;
+    
+}
+
+.title {
+    margin: 50px 100px 30px 500px;
+    font-family:'Segoe UI';
+    font-weight: bolder;
+}
+
+.line {
+    margin:0;
+    height: 5px;
+    background-color: rgb(55, 55, 218);
+    border-radius: 5px;
+    
+}
+
+.header {
+    font-style: italic;
+    padding-left:500px;
+}
+
+.container {
+    margin-left: 500px;
+}
+
+.textbox {
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+    background-color:white;
+    color: white;
+}
+::placeholder {
+    color: black;
+}
+.email .textbox{
+    margin-left: 50px;
+    
+}
+
+select{
+    padding: 8px;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 70px;
+    background-color: white;
+    cursor: pointer;
+}
+
+#gender{
+    margin-left: 500px;
+    cursor: pointer;
+}
+
+#gender #male {
+    margin-left: 20px;
+}
+
+ #gender #female {
+    margin-left: 20px;
+ }
+
+ .contact {
+    margin-left: 500px;
+ }
+
+ .contact .number {
+    margin-left: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: white;
+ }
+
+ .contact :placeholder {
+    color: white;
+    border:1px;
+ }
+ .checkbox .agreement {
+    margin-left: 500px;
+  
+ }
+
+ .signup {
+    margin-left: 300px;
+    padding: 10px;
+    padding-right:15px;
+    padding-left: 15px;
+    border-radius: 50px;
+    font-weight: bold;
+ }
+ .signup :hover {
+    background-color: rgb(55, 55, 218);
+    cursor: pointer;
+ }
+
+
+ 
