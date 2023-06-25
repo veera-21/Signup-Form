@@ -2,8 +2,7 @@
 This project showcases a responsive and visually appealing signup form implemented using HTML and CSS. The purpose of this project is to provide a practical example of building a form layout and styling it using CSS.
 
 ## Features
-## Steps
-Clean and intuitive user interface.
+- Clean and intuitive user interface.
 Responsive design, adapting to different screen sizes and devices.
 Input validation for ensuring correct user inputs.
 Submit functionality with basic form handling.
